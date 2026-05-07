@@ -29,10 +29,10 @@ Con esta práctica he aprendido a:
 
 ### Fase 1: 
 Primero instalé los módulos de Inventario y Facturación.
-<img width="467" height="279" alt="2" src="https://github.com/user-attachments/assets/bd65213d-e884-459a-8a2a-87b3bf880107" />
+<img width="469" height="318" alt="1" src="https://github.com/user-attachments/assets/82ceef44-aa0a-4d54-98cb-f3e733c46cfe" />
 
 Después importé clientes desde un archivo CSV (clientes_mock.csv).
-<img width="469" height="318" alt="1" src="https://github.com/user-attachments/assets/82ceef44-aa0a-4d54-98cb-f3e733c46cfe" />
+<img width="467" height="279" alt="2" src="https://github.com/user-attachments/assets/bd65213d-e884-459a-8a2a-87b3bf880107" />
 
 Una vez importados:
 <img width="471" height="307" alt="3" src="https://github.com/user-attachments/assets/5ab5050d-920f-48f3-9149-299f9f5238cc" />
