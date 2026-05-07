@@ -15,14 +15,16 @@ Con esta práctica he aprendido a:
 - Exportar datos CSV para usarlos en otros programas
 
 ## Contenido del repositorio  
-- clientes_mock.csv
+- Directorio "docs" → Contiene capturas de las distintas fases, la nueva factura y los contactos exportados.
+- JimenezRamirezDaniel_EcosistemaOdoo.pdf
 - README.md
+- clientes_mock.csv 
+- docker-compose.yml → Archivo de configuracion de Docker
 
 ## Herramientas utilizadas  
 - Visual Studio Code  
 - Docker  
-- Odoo  
-- PostgreSQL  
+- Odoo   
 - XML y CSV  
 
 ## Fases realizadas  
