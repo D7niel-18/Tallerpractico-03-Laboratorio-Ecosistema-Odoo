@@ -27,7 +27,7 @@ Con esta práctica he aprendido a:
 
 ## Fases realizadas  
 
-### Fase 1: 
+### Fase 1: Instalacion y Alteracion del esquema
 Primero instalé los módulos de Inventario y Facturación.
 <img width="469" height="318" alt="1" src="https://github.com/user-attachments/assets/82ceef44-aa0a-4d54-98cb-f3e733c46cfe" />
 
@@ -42,8 +42,13 @@ También hice un proceso completo:
 Cree un articulo y luego.Presupuesto → Pedido → Entrega → Generar una factura Factura  
 <img width="469" height="325" alt="4" src="https://github.com/user-attachments/assets/171bdddd-f531-4209-a81f-77a7472f4e73" />
 <img width="400" height="361" alt="5" src="https://github.com/user-attachments/assets/284ab3d4-b8ad-4c3c-b447-6351a9868734" />
-### Fase 2: Informes  
-No pude terminar el informe de Odoo añadiendo un aviso legal y texto de protección de datos usando XML.
+### Fase 2: Elaboración de informes 
+Entramos en  Ajustes → Técnico → Interfaz de Usuario → Vistas (Views)
+<img width="254" height="187" alt="33" src="https://github.com/user-attachments/assets/7861c564-6fdb-457e-bd0c-bdda1a6aee42" />
+Entramos en vistas y buscamos report_saleorder_document y modificamos el archivo.
+<img width="831" height="508" alt="22" src="https://github.com/user-attachments/assets/bbe9a8e9-f811-440f-a0d5-e306fd4371be" />
+Y ahora al descargar las facturas saldran de la siguiente manera
+<img width="908" height="559" alt="55" src="https://github.com/user-attachments/assets/1a3feb6b-3a23-40cd-aa49-2e6b34bc2642" />
 
 ### Fase 3: Exportación  
 En esta fase fui a Facturación → Clientes → Clientes
